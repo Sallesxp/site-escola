@@ -29,7 +29,7 @@ body {
 }
 
 .livro{
-    background-image: linear-gradient(#3c3c3c,#8c8c8c);
+    background-image: linear-gradient(#c79a08,#eb7e03);
     color:white;
     display: flex;
     justify-content: center;
